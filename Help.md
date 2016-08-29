@@ -3,3 +3,5 @@
 3. As per instructions, plot 2 has it's code and png file uploaded.
 4. As per instructions, plot 3 has it's code and png file uploaded.
 5. As per instructions, plot 4 has it's code and png file uploaded.
+
+All this has been added to the Readme file too.
